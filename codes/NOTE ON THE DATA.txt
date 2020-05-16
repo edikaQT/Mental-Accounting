@@ -1,0 +1,10 @@
+The data used in this study were provided by Argus Analytics. We cannot share these data or allow it to leave our local network.
+
+We have provided all code used to generate the figures and tables in the paper. 
+
+Within the code we generate a simulated dataset on which you can run the code to see how figures and tables and created
+Please see the README file for more details.
+
+If you would like to view the reproduction our results using this code on the Argus CCPS data, 
+please contact us to organize a supervised visit to our local network.  
+
